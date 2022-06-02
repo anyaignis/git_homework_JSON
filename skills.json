@@ -1,0 +1,25 @@
+{
+         "skill" : "testing_theory",   
+         "skill" : "bug_reporting",
+         "skill" : "test_case",
+         "skill" : "check_list",
+         "skill" : "mobile_testing"
+},
+{        "client_server" : "http_methods",
+         "client_server" : "http_statuses",
+         "client_server" : "json_xml_structures",
+         "client_server" : "api_testing"
+},   
+{         
+         "tool" : "postman",
+         "tool" : "charles",
+         "tool" : "fiddler",
+         "tool" : "android_studio",
+         "tool" : "jmeter",
+         "tool" : "xcode",
+         "tool" : "dev_tools"
+},
+{
+         "database" : "sql",
+         "git_bash" : "commands"
+}		 
