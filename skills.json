@@ -1,25 +1,28 @@
+[
 {
-         "skill" : "testing_theory",   
-         "skill" : "bug_reporting",
-         "skill" : "test_case",
-         "skill" : "check_list",
-         "skill" : "mobile_testing"
-},
-{        "client_server" : "http_methods",
-         "client_server" : "http_statuses",
-         "client_server" : "json_xml_structures",
-         "client_server" : "api_testing"
-},   
-{         
-         "tool" : "postman",
-         "tool" : "charles",
-         "tool" : "fiddler",
-         "tool" : "android_studio",
-         "tool" : "jmeter",
-         "tool" : "xcode",
-         "tool" : "dev_tools"
-},
+	"skill_1": "testing_theory",
+	"skill_2": "bug_reporting",
+	"skill_3": "test_case",
+	"skill_4": "check_list",
+	"skill_5": "mobile_testing"
+}, 
 {
-         "database" : "sql",
-         "git_bash" : "commands"
-}		 
+	"client_server_1": "http_methods",
+	"client_server_2": "http_statuses",
+	"client_server_3": "json_xml_structures",
+	"client_server_4": "api_testing"
+}, 
+{
+	"tool_1": "postman",
+	"tool_2": "charles",
+	"tool_3": "fiddler",
+	"tool_4": "android_studio",
+	"tool_5": "jmeter",
+	"tool_6": "xcode",
+	"tool_7": "dev_tools"
+}, 
+{
+	"database": "sql",
+	"git_bash": "commands"
+}
+]
