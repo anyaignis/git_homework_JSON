@@ -1,3 +1,4 @@
+[
 {
         "favorite_movie" : "Джентельмены",
         "favorite_serial" : "Во_все_тяжкие",
@@ -8,15 +9,4 @@
         "favorite_time_of_year" : "autumn",
         "country_to_visit" : "Norway"
 }
-
-{
-        "favorite_movie" : "Джентельмены",
-        "favorite_serial" : "Во_все_тяжкие",
-        "favorite_food" : "суши"
-},
-
-{
-        "favorite_time_of_year" : "autumn",
-        "country_to_visit" : "Norway"
-}
-
+]
